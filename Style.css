@@ -40,3 +40,10 @@ card {
   width:400px;
   height:200px;
 }
+card2 {
+  display: flex;
+  flex-direction: column;
+  align-items: space-around;
+  height: 70%;
+  margin-top: 10px;
+}
