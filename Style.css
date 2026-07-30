@@ -4,7 +4,7 @@ html,body{
     margin:0;
     padding:0;
 }
-title {
+h1 {
 background-color: rgb(246, 15, 15); /* Sets the background color */
   display: inline-block;       /* Keeps the background tightly wrapped around text */
   padding: 5px 10px; 
