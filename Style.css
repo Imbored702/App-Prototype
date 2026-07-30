@@ -32,10 +32,6 @@ card {
   flex-direction: column;
   align-items: space-around;
   height: 70%;
-  border-color: black;
-  border-radius: 10;
-  border-width: 5rem;
-  padding: 5rem;  
 }
 
 .card .card-image{
