@@ -34,7 +34,12 @@ card {
   height: 70%;
   margin-bottom: 20px;
 }
-
+card:hover{
+  background-color: blue ;
+}
+card2:hover{
+  background-color: blue;
+}
 .card .card-image{
   display: block;
   width:400px;
