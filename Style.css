@@ -48,6 +48,5 @@ card2 {
   margin-top: 20px;
 }
 .card-image:hover{
-  background-color: blue;
-  transition: background-color 0.3s ease;
+  background: radial-gradient(blue,white);
 }
