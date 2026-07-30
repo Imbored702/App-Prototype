@@ -24,7 +24,6 @@ h3 {
 card {
   display: flex;
   flex-direction: column;
-  justify-content: start;
   align-items: space-around;
   height: 70%;
 }
