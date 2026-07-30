@@ -18,6 +18,9 @@ h2 {
   color: black;
   font-family: sans-serif;
 }
+h3 {
+  margin-top: 60px;
+}
 card {
   display: flex;
   flex-direction: column;
