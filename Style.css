@@ -40,7 +40,12 @@ card {
   width:400px;
   height:200px;
 }
-card2 {
+.card2 .card2-image{
+  display: block;
+  width:400px;
+  height:200px;
+}
+.card2 {
   display: flex;
   flex-direction: column;
   align-items: space-around;
@@ -48,5 +53,8 @@ card2 {
   margin-top: 20px;
 }
 .card-image:hover{
+  background: radial-gradient(blue,white);
+}
+.card2-image:hover{
   background: radial-gradient(blue,white);
 }
