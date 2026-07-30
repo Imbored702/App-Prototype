@@ -33,11 +33,7 @@ card {
   align-items: space-around;
   height: 70%;
 }
-wall {
-  border: solid 40px black;
-    border-radius: 10px;
-    padding:1rem;
-}
+
 .card .card-image{
   display: block;
   width:200px;
