@@ -5,8 +5,9 @@ html,body{
     padding:0;
 }
 h1 {
-  font-size: 32px;
+  font-size: 64px;
   text-align: center;
   color: black;
+  margin-top: 20px;
 }
 
