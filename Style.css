@@ -27,7 +27,7 @@ h3 {
   font-size: 45px;
   margin-top: 60px;
 }
-card {
+.card {
   display: flex;
   flex-direction: column;
   align-items: space-around;
@@ -40,11 +40,7 @@ card {
   width:400px;
   height:200px;
 }
-.card2 .card2-image{
-  display: block;
-  width:400px;
-  height:200px;
-}
+
 .card2 {
   display: flex;
   flex-direction: column;
@@ -52,9 +48,12 @@ card {
   height: 70%;
   margin-top: 20px;
 }
-.card-image:hover{
-  background: radial-gradient(blue,white);
+
+.card2 .card2-image{
+  display: block;
+  width:400px;
+  height:200px;
 }
-.card2-image:hover{
-  background: radial-gradient(blue,white);
+.card-image:hover{
+  background: radial-gradient(blue);
 }
