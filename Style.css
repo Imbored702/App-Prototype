@@ -18,6 +18,13 @@ h2 {
   color: black;
   font-family: sans-serif;
 }
+h5 {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  background-color: red;
+}
 p {
   font-family: sans-serif;
   color: black;
@@ -50,10 +57,13 @@ h3 {
   align-items: stretch;
   gap: 2rem;
   flex:1 1 300px;
-  border:solid 1px black;
+  border:solid 10px black;
   padding:1rem;
   border-radius: 10px;
 }
 .projects{
-    background-color: bisque;
+    background-color: red;
+}
+.projects:hover{
+    background: radial-gradient(grey ,red);
 }
