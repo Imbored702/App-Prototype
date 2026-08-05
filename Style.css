@@ -83,7 +83,7 @@ h3 {
 }
 /* Outer list items (names) */
 #lines > ol > li {
-    border: 10px solid #333;
+    border: 10px solid black;
     padding: 8px 12px;
     margin-bottom: 12px;
     text-align: center;
