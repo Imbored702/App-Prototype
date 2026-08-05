@@ -74,21 +74,9 @@ h3 {
 .projects:hover{
     background: radial-gradient(red ,red);
 }
-#skills ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-    padding: 0;
-    margin: 0;
-}
-
-nav ul li, #skills ul li {
-    list-style: none;
-}
-
-#skills ul li {
-    border: solid 1px black;
-    border-radius: 10px;
-    padding: 1rem;
+/* Outer list items (names) */
+#lines > ol > li {
+    border: 2px solid #333;
+    padding: 8px 12px;
+    margin-bottom: 12px;
 }
