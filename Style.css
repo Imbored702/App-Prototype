@@ -44,3 +44,16 @@ h3 {
 .card-image:hover{
   background: radial-gradient(blue);
 }
+.subscriptions{
+  justify-content: center;
+  align-content: stretch;
+  align-items: stretch;
+  gap: 2rem;
+  flex:1 1 300px;
+  border:solid 1px black;
+  padding:1rem;
+  border-radius: 10px;
+}
+.projects{
+    background-color: bisque;
+}
