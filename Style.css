@@ -4,7 +4,7 @@ html, body{
     padding:0;
     background-color: gray;
 }
-.text-center{
+.ct{
     text-align: center;
 }
 
@@ -54,6 +54,7 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   height: 70%;
   margin-bottom: 20px;
 }
