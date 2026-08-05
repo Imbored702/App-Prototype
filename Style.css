@@ -19,7 +19,7 @@ h2 {
   font-family: sans-serif;
 }
 h5 {
-  font-size: 50px;
+  font-size: 128px;
   text-align: center;
   color: white;
   font-family: sans-serif;
@@ -49,12 +49,13 @@ h3 {
 }
 
 .card-image:hover{
-  background: radial-gradient(blue);
+  background: radial-gradient(red);
 }
 .subscriptions{
   justify-content: center;
   align-content: stretch;
   align-items: stretch;
+  text-align: center;
   gap: 2rem;
   flex:1 1 300px;
   border:solid 10px black;
@@ -62,8 +63,8 @@ h3 {
   border-radius: 10px;
 }
 .projects{
-    background-color: red;
+    background-color: grey;
 }
 .projects:hover{
-    background: radial-gradient(grey ,red);
+    background: radial-gradient(red ,red);
 }
